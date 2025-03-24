@@ -7,8 +7,6 @@ Ce projet est un exemple de **batch Spring Boot / Spring Batch** permettant de t
 - **Multi-onglets** : Un fichier Excel unique comportant plusieurs feuilles générées dès que le nombre de lignes dépasse un seuil défini.
 - **Multi-fichiers** : Plusieurs fichiers Excel (`output_1.xlsx`, `output_2.xlsx`, …) sont créés lorsque le seuil de lignes par fichier est atteint.
 
-> **NB** : Le projet est facilement extensible pour gérer un très grand nombre de colonnes, des validations complexes et un monitoring complet de Spring Batch.
-
 ---
 
 ## Table des matières
