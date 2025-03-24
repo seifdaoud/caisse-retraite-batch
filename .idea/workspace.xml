@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f701f037-4df0-41e0-9df8-a6bac71fea31" name="Changes" comment="" />
+    <list default="true" id="f701f037-4df0-41e0-9df8-a6bac71fea31" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/output.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +19,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
@@ -31,11 +37,12 @@
     "Maven.caisse-retraite-batch [spring-boot:run].executor": "Run",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
+    "RequestMappingsPanelWidth0": "562",
+    "RequestMappingsPanelWidth1": "562",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Spring Boot.CaisseRetraiteBatchApplication.executor": "Run",
     "com.codeium.enabled": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -82,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742769978476</updated>
-      <workItem from="1742769979596" duration="5196000" />
+      <workItem from="1742769979596" duration="5979000" />
     </task>
     <servers />
   </component>
