@@ -54,7 +54,7 @@ Ce projet est un exemple de **batch Spring Boot / Spring Batch** permettant de t
 
 1. **Cloner** ou télécharger ce dépôt :
    ```bash
-   git clone https://github.com/.../caisse-retraite-batch.git
+   git clone https://github.com/seifdaoud/caisse-retraite-batch.git
    ```
 2. Se placer dans le répertoire du projet et compiler avec Maven :
    ```bash
